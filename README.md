@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinay 
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Transformers, BERT
 - 💞️ I’m looking to collaborate on ML Ops project and cloud data architectures.
 - 📫 How to reach me : vinay.bhatt09@gmail.com 
