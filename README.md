@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vinay 
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Transformers, BERT
+- 🌱 Books : I'm reading these : "Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville" , and "Hands-On Machine Learning with Scitkit-Learn, Keras & TensorFlow - Aurelien Geron"
 - 💞️ I’m looking to collaborate on ML Ops project and cloud data architectures.
 - 📫 How to reach me : vinay.bhatt09@gmail.com 
 
